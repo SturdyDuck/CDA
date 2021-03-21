@@ -1,0 +1,18 @@
+{
+    "elems": [
+        {
+            "tag": "Culture",
+            "date": "Jan 4, 2016",
+            "header": "First article",
+            "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. \n\nDonec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur.",
+            "image": "block-3_img-1.png"
+        },
+        {
+            "tag": "Culture",
+            "date": "Jan 5, 2016",
+            "header": "Second article",
+            "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. \n\nDonec ullamcorper nulla non metus auctor fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed posuere consectetur.",
+            "image": "block-3_img-2.png"
+        }
+    ]
+}

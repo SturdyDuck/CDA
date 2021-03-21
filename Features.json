@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "image": "fa-pencil-square-o",
+            "header": "FEATURE ONE",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        
+        },
+        {
+            "image": "fa-pencil-square-o",
+            "header": "FEATURE TWO",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        
+        },
+        {
+            "image": "fa-search",
+            "header": "FEATURE THREE",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        
+        },
+        {
+            "image": "fa-comment-o",
+            "header": "FEATURE FOUR",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+        
+        }
+    ]
+}
